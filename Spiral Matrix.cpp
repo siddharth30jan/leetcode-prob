@@ -69,3 +69,18 @@ public:
         return V;
     }
 };
+
+
+
+/*
+User value
+1. Providing a rich variety of dishes.
+2. Providing door step delivery.
+3. Rare dishes for premium customers.
+4. Managing all of these through an application.
+5. App is compatible both for ios and android users.
+*/
+
+/*
+1. The goal of a user adoption strategy is to help users reach their goal. That means conducting research to understand users’ motivations, needs, environments, beliefs, complaints, and, most important, all the reasons why users don’t adopt.
+
